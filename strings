@@ -1,0 +1,6 @@
+n =10
+
+if n>13 :
+    print("negative")
+else: 
+    print("positive")
